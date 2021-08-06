@@ -24,4 +24,30 @@ console.log("-------------");
 console.log("jari-jari = 8");
 var r = 8
 var luas = luasLingkaran(r);
-console.log('lu')
+console.log('luas = ' + luas);
+
+var r = 8
+var keliling = Math.round(kelilingLingkaran(r));
+console.log('keliling = ' + keliling);
+
+// jari-jari 7
+console.log("-------------");
+console.log("jari-jari = 7");
+var r = 7
+var luas = luasLingkaran(r);
+console.log('luas = ' + luas);
+
+var r = 7
+var keliling = Math.round(kelilingLingkaran(r));
+console.log('keliling = ' + keliling);
+
+// jari-jari 5
+console.log("-------------");
+console.log("jari-jari = 5");
+var r = 5
+var luas = luasLingkaran(r);
+console.log('luas = ' + luas);
+
+var r = 5
+var keliling = Math.round(kelilingLingkaran(r));
+console.log('keliling = ' + keliling);
